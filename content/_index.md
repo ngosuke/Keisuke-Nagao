@@ -50,7 +50,7 @@ sections:
         - title: Undergraduate Student
           company: University of Tokyo
           company_url: ''
-          company_logo: UT
+          company_logo: UT_logo
           location: Tokyo, JP
           date_start: '2009-04-01'
           date_end: '2013-03-31'
