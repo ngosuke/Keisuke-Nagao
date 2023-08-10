@@ -34,7 +34,7 @@ sections:
         - title: Research Engineer
           company: IHI Corporation
           company_url: ''
-          company_logo: 
+          company_logo: IHI_logo
           location: Yokohama, JP
           date_start: '2015-04-01'
           date_end: '2020-07-31'
